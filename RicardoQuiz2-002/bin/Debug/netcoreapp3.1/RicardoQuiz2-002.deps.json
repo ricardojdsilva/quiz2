@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RicardoQuiz2-002/1.0.0": {
+        "runtime": {
+          "RicardoQuiz2-002.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RicardoQuiz2-002/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
